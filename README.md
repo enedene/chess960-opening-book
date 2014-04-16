@@ -1,7 +1,7 @@
 chess960-opening-book
 =====================
 
-Chess960 opening book in pgn format, depth 3, with 128137 unique starting positions and encoded castling.
+Chess 960 opening book in pgn format, depth 3, with 128137 unique starting positions and encoded castling.
 
 I don't know about other software, but you can use it with cutechess-cli, providing the switch "variant". Here is an example:
 
